@@ -17,7 +17,7 @@ This project analyzes customer churn behavior in the telecom industry using an i
 - Source: Kaggle
 - 🔗 **Dataset:** [Telecom_Customer_Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-  ## 🔑 Key Attributes
+## 🔑 Key Attributes
    **Customer ID**, **Gender** , **Tenure** ,  **Internet Service** , **Dependents**,  **Partner**,  **Senior Citizen**,  **Online Security**,  **Churn** 
 
 ---
