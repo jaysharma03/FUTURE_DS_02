@@ -65,6 +65,9 @@ This project analyzes customer churn behavior in the telecom industry using an i
 
 ---
 
+## Dashboard Preview
+![Customer Churn Dashboard](https://github.com/jaysharma03/FUTURE_DS_02/blob/main/Customer_Analysis_Dashboard.JPG)
+
 ## 👤 Author  
 
 **Jay Sharma**  
